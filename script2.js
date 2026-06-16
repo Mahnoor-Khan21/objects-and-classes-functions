@@ -6,7 +6,7 @@ let student ={
     name : "mano",
     age : 17,
     gtreet: function(){
-        console.log("Helloo, my name is " + this.name);
+        console.log("Helloo, my name is " + this.name);//** Modified */
 
     }
 
